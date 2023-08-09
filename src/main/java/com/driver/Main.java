@@ -15,7 +15,7 @@ public class Main {
 
     }
     //task 1
-    static  class   Product
+    public static  class   Product
     {
         //task3
 
